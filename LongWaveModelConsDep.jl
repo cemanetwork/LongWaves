@@ -11,7 +11,7 @@ const g=9.81
 const T=100.0
 const dt=0.5
 const dx=100.0
-const Hₒ=50.0
+const Hₒ=200.0
 
 function LW()
 
