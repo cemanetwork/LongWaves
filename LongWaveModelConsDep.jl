@@ -121,6 +121,8 @@ x, u, η = LW()
          color = ["blue" "green"],
          legend = false
          )
+
+# SAVING PLOT RESULTS IN LOCAL MACHINE
     savefig("G:\\My Drive\\Uninorte\\Modelacion\\Julia\\LongWaves\\result.png")
 
 
